@@ -35,7 +35,7 @@
 - 🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on projects related to geoscience and technology.
 - 📫 How to reach me: 
-  - Visit my [blog](http://www.luiujiu.site)
+  - Visit my [blog](https://www.lujiujiu.site)
   - QQ: 3313014878
   - WeChat: xyRen31415926
 - 😄 Pronouns: He/Him
