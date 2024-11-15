@@ -7,13 +7,15 @@
 
 ## 兴趣方向
 
-主要探索与机器学习的地学应用，主要包括：
-- **GNSS地学应用**（全球导航卫星系统）
+主要探索于机器学习的地学应用，主要包括：
+- **GNSS地学应用**
 - **遥感技术**
-- **人工智能（AI）**
+- **计算机视觉**
 - **行星遥感**
+业余主线
+- **自动驾驶高精度建图**
 
-**咱主打就是一个多而杂！**
+**咱主打就是一个多而杂，业余期望打造一个属于自己的机器人！**
 
 ## 联系方式
 
@@ -25,7 +27,7 @@
 
 - 👋 Hi, I’m @陆九九
 - 👀 I’m interested in machine learning geoscience applications, mainly including GNSS, remote sensing (RS), and artificial intelligence (AI).
-- 🌱 I’m currently learning and preparing for postgraduate entrance examination.
+- 🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on projects related to geoscience and technology.
 - 📫 How to reach me: 
   - Visit my [blog](http://www.luiujiu.site)
