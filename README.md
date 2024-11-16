@@ -1,7 +1,7 @@
 # 关于我
 
 <div align="center">
-  <h1>陆九九</h1>
+  <h1>任柒</h1>
   <p>地信大三在读生 | 考研ing</p>
 </div>
 
@@ -30,7 +30,7 @@
 
 ---
 
-- 👋 Hi, I’m @陆九九
+- 👋 Hi, I’m @任柒
 - 👀 I’m interested in machine learning geoscience applications, mainly including GNSS, remote sensing (RS), and artificial intelligence (AI).
 - 🌱 I’m currently ...
 - 💞️ I’m looking to collaborate on projects related to geoscience and technology.
