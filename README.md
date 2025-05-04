@@ -7,20 +7,6 @@
 
 ## 兴趣方向
 
-主要探索于机器学习的地学应用，主要包括：
-- **AI图像处理与目标检测**
-- **GNSS地学应用**（也就弄弄GNSS浮标、地灾监测、大型建筑物形变监测，还未涉足，但是感觉可以搞搞玩试一下）
-- **遥感目标识别与变化监测**（现在接触还不多，也没太多项目经历）
-- **计算机视觉**
-- **行星遥感**
-
-
-业余主线
-- **自动驾驶高精度建图**（之前走的一些弯路，有机会有时间还会继续搞滴）
-- **ROS机器人开发**（这个应该算是专业需要了吧，好像没得说）
-- **设计一台智能化浮标**（🤣虽然感觉像痴人说梦🤣）
-
-**咱主打就是一个多而杂，遵从本心，从心而为，不内卷，做自己。提升自己的核心竞争力😃😃😃**
 
 ## 联系方式
 
@@ -31,9 +17,7 @@
 ---
 
 - 👋 Hi, I’m @任柒
-- 👀 I’m interested in machine learning geoscience applications, mainly including GNSS, remote sensing (RS), and artificial intelligence (AI).
 - 🌱 I’m currently ...
-- 💞️ I’m looking to collaborate on projects related to geoscience and technology.
 - 📫 How to reach me: 
   - Visit my [blog](https://www.lujiujiu.site)
   - QQ: 3313014878
